@@ -1,0 +1,16 @@
+{
+  "name": "easy-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "webpack": "node debugger.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.21.0",
+    "tapable": "^2.2.1",
+    "webpack": "^5.75.0"
+  }
+}
